@@ -6,7 +6,7 @@ Here is a projects on Trove, isn't finished at 100%.
 ## Features
 
 - Anti-AFK, jump every 30s.
-- Hide player, just type /hideplayer or showplayer (<a href='https://github.com/Wivite'>by him</a>).
+- Hide player, just type /hideplayer or showplayer. 
 - Auto-HIT, i didn't do that for the moment.
 
 - Spam invite, juste send every 32s an /joinme `<player>`, here the player is named 'kirkir15', if you want to change the person to spam, change the hexa key line 260
