@@ -7,7 +7,7 @@ Here is a projects on Trove, isn't finished at 100%.
 
 - Anti-AFK, jump every 30s.
 - Hide player, just type /hideplayer or showplayer. 
-- Auto-HIT, i didn't do that for the moment.
+- Auto-HIT, use SendMessage to simulate left click to the app (left click when check is pressed until it's uncheck), when comming back on Trove, if it's stop shooting just press 'V'.
 
 - Spam invite, juste send every 32s an /joinme `<player>`, here the player is named 'kirkir15', if you want to change the person to spam, change the hexa key line 260
 Change this > [0x4B, 0x49, 0x52, 0x4B, 0x49, 0x52, 0x31, 0x35]. Here where to find the <a href='https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes'>hexa key code</a>.
@@ -15,4 +15,4 @@ Change this > [0x4B, 0x49, 0x52, 0x4B, 0x49, 0x52, 0x31, 0x35]. Here where to fi
 
 - Camera distance, doesn't work.
 
-- Selection class only work in 1920x1080 and 2560x1080
+- Selection class only work in 1920x1080 (x1 i think) and 2560x1080 (x0.75)
